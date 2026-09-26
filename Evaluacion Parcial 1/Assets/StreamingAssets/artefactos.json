@@ -1,9 +1,0 @@
-{
-  "artefactos": [
-    {"codigo": "AR001", "nombre": "Cristal Solar", "tipo": "Energia", "nivel": 8, "procesado": false},
-    {"codigo": "AR002", "nombre": "Mapa Antiguo", "tipo": "Exploracion", "nivel": 4, "procesado": false},
-    {"codigo": "AR003", "nombre": "Fragmento Lunar", "tipo": "Mineral", "nivel": 10, "procesado": false},
-    {"codigo": "AR004", "nombre": "Nucleo Inestable", "tipo": "Energia", "nivel": 12, "procesado": false},
-    {"codigo": "AR005", "nombre": "Reliquia Antigua", "tipo": "Historico", "nivel": 6, "procesado": false}
-  ]
-}
