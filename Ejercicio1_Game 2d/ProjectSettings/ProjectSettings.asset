@@ -605,8 +605,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Ejercicio1_Game 2d
-  metroPackageVersion: 
+  metroPackageName: Ejercicio1Game2d
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -614,7 +614,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Ejercicio1_Game 2d
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Ejercicio1_Game 2d
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -681,7 +681,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 0
   windowsGamepadBackendHint: 0
   cloudProjectId: 96a571fb-56d4-4886-911f-fb40a139e6b8
   framebufferDepthMemorylessMode: 0
